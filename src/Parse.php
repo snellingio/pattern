@@ -2,7 +2,7 @@
 
 namespace Snelling\Pattern;
 
-class Parser
+class Parse
 {
     private $delimiters;
     private $validation;
